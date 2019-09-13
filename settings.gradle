@@ -1,0 +1,2 @@
+include ':app', ':junit-4.12', ':ALI-11.01.16', ':commons-math3-3.0', ':common-lang3'
+include ':openCVLibrary343'
